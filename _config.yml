@@ -1,4 +1,4 @@
 title: My Dev Blog
 description: A simple Jekyll site
-theme: minima
+theme: jekyll-theme-minimal
 markdown: kramdown
