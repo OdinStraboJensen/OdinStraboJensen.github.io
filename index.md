@@ -14,17 +14,17 @@ intro:
   - excerpt: "I do games, custom engines and tools."
 
 feature_row:
-  - image_path: /assets/images/icon-code.png
+  - image_path: /assets/images/feature_projects.png
     alt: "Projects"
     title: "Projects"
     excerpt: "My games, apps and experiments."
     url: "/projects/"
-  - image_path: /assets/images/icon-cpu.png
+  - image_path: /assets/images/feature_engine.png
     alt: "Game Engines"
     title: "SkullForge"
     excerpt: "My built from scratch game engine, using C++ and Vulkan."
     url: "/engines/"
-  - image_path: /assets/images/icon-book.png
+  - image_path: /assets/images/feature-blog.png
     alt: "Blog"
     title: "Blog"
     excerpt: "Articles, dev logs, and technical insights."
