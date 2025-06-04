@@ -1,7 +1,8 @@
 ---
 layout: home
 title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 
-Welcome to the blog!
+Welcome to my blog!

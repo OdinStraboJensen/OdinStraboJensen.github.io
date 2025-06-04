@@ -1,7 +1,7 @@
 title: Odin Strabo Jensen
-description: My personal site with Minimal Mistakes
+description: My personal site powered by Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-include-cache
@@ -10,3 +10,6 @@ plugins:
 paginate: 5
 paginate_path: "/page:num/"
 markdown: kramdown
+
+navigation:
+  main: main
