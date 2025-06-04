@@ -5,4 +5,4 @@ date: 2025-06-04
 author_profile: true
 ---
 
-Hello! This is my first post.
+This is a post using the `single` layout from Minimal Mistakes.

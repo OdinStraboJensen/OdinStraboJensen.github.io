@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Welcome"
+author_profile: true
 ---
 
-Welcome to my personal website and blog.
+This is my personal site powered by Minimal Mistakes.

@@ -1,5 +1,5 @@
-title: My Site
-description: My personal blog
+title: Odin Strabo Jensen
+description: My personal site with Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "mint"
 
@@ -7,6 +7,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
-markdown: kramdown
 paginate: 5
-paginate_path: /page:num/
+paginate_path: "/page:num/"
+markdown: kramdown
