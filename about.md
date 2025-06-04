@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 I'm a software developer passionate about **games**, **game engines**, and **much more**.   
-I build low-level systems, create custom game engines, and design tools that empower developers and creatives.
 
 I have experience in:
 - Real-time 3D graphics with OpenGL and Vulkan
@@ -14,12 +13,14 @@ I have experience in:
 - Unity programming
 - Network programming
 - Tools programming
+- Mobile programming
 - Game engine architecture and optimization
 - Building cross-platform tools and C++ libraries
+- DevOps and cloud setup/architecture
 - Systems design
 - C++, C# and other languages
 
-When I’m not coding, I play classic PC games, work on my latest game and/or my engine, workout, and occasionally write about technical topics.
+When I’m not coding, I play classic PC games, work on my latest game and/or my engine, workout, and ofcourse spend time with my family ♥️
 
 ---
 
