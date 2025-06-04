@@ -29,3 +29,4 @@ When I’m not coding, I play classic PC games, work on my latest game and/or my
 - <i class="fas fa-envelope"></i> Email: [odinstrabo@gmail.com](mailto:odinstrabo@gmail.com)  
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/odin-strabo-jensen/)  
 - <i class="fab fa-youtube"></i> [YouTube](https://www.youtube.com/@odinstrabojensen)  
+ 
