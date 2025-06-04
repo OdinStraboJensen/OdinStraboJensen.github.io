@@ -1,4 +1,11 @@
-title: My Dev Blog
-description: A simple Jekyll site
-theme: jekyll-theme-minimal
+title: My Blog
+description: A better blog using Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "mint" # options: default, dark, air, mint, neon, etc.
+
+plugins:
+  - jekyll-include-cache
+
 markdown: kramdown
+paginate: 5
+paginate_path: /page:num/
