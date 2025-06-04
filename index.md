@@ -6,16 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/splash-bg.jpg
-  actions:
-    - label: "Read Blog"
-      url: "/blog/"
-    - label: "View Projects"
-      url: "/projects/"
-    - label: "Game Engines"
-      url: "/engines/"
-    - label: "About Me"
-      url: "/about/"
+  overlay_image: /assets/images/splash-bg.png
 
 excerpt: "Game developer, engine programmer, and systems designer."
 
