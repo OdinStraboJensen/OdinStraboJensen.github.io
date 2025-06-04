@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/splash-bg.png
 
-excerpt: "Game developerm engine and tools programmer"
+excerpt: "Game developer, engine and tools programmer"
 
 intro:
   - excerpt: "I do games, custom engines and tools."
