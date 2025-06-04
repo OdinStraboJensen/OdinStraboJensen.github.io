@@ -17,6 +17,7 @@ I have experience in:
 - Game engine architecture and optimization
 - Building cross-platform tools and C++ libraries
 - Systems design
+- C++, C# and other languages
 
 When I’m not coding, I explore classic PC game design, prototype new gameplay mechanics, workout, and occasionally write about technical topics.
 
