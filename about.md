@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I'm a software developer passionate about **game engines**, **AI**, and **digital tools**.  
+I'm a software developer passionate about **games**, **game engines**, and **much more**.   
 I build low-level systems, create custom game engines, and design tools that empower developers and creatives.
 
 I have experience in:
