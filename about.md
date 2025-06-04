@@ -17,6 +17,7 @@ I have experience in:
 - Game engine architecture and optimization
 - Building cross-platform tools and C++ libraries
 - DevOps and cloud setup/architecture
+- GitHub actions.
 - Systems design
 - C++, C# and other languages
 
