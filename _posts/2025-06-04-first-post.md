@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "My First Blog Post"
 date: 2025-06-04
+author_profile: true
 ---
 
-This is a sample blog post. You can write about anything here!
+Hello! This is my first post.
