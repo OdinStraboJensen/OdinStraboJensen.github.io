@@ -24,6 +24,11 @@ feature_row:
     title: "SkullForge"
     excerpt: "My built from scratch game engine, using C++ and Vulkan."
     url: "/engines/"
+  - image_path: /assets/images/icon-book.png
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Articles, dev logs, and technical insights."
+    url: "/blog/"
 ---
 
 {% include feature_row %}
