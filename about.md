@@ -19,7 +19,7 @@ I have experience in:
 - Systems design
 - C++, C# and other languages
 
-When I’m not coding, I explore classic PC game design, prototype new gameplay mechanics, workout, and occasionally write about technical topics.
+When I’m not coding, I play classic PC games, work on my latest game and/or my engine, workout, and occasionally write about technical topics.
 
 ---
 
