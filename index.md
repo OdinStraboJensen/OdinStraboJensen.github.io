@@ -8,17 +8,12 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/splash-bg.png
 
-excerpt: "Game developer, engine programmer, and systems designer."
+excerpt: "Game developerm engine and tools programmer"
 
 intro:
   - excerpt: "I do games, custom engines and tools."
 
 feature_row:
-  - image_path: /assets/images/feature_blog.png
-    alt: "Blog"
-    title: "Blog"
-    excerpt: "Articles, dev logs, and technical insights."
-    url: "/blog/"
   - image_path: /assets/images/feature_projects.png
     alt: "Projects"
     title: "Projects"
@@ -29,7 +24,12 @@ feature_row:
     title: "SkullForge"
     excerpt: "My C++ and Vulkan based game engine."
     url: "/engines/"
+  - image_path: /assets/images/feature_blog.png
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Articles, dev logs, and technical insights."
+    url: "/blog/"
  
 ---
 
-{% include feature_row id="feature_row" type="right" %}
+{% include feature_row id="feature_row" type="center" %}
