@@ -14,7 +14,7 @@ intro:
   - excerpt: "I do games, custom engines and tools."
 
 feature_row:
- - image_path: /assets/images/feature_blog.png
+  - image_path: /assets/images/feature_blog.png
     alt: "Blog"
     title: "Blog"
     excerpt: "Articles, dev logs, and technical insights."
@@ -29,6 +29,7 @@ feature_row:
     title: "SkullForge"
     excerpt: "My C++ and Vulkan based game engine."
     url: "/engines/"
+  
 ---
 
 {% include feature_row %}
