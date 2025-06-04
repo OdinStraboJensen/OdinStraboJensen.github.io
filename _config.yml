@@ -1,11 +1,12 @@
-title: My Blog
-description: A better blog using Minimal Mistakes
+title: My Site
+description: My personal blog
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint" # options: default, dark, air, mint, neon, etc.
+minimal_mistakes_skin: "mint"
 
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
+
 markdown: kramdown
 paginate: 5
 paginate_path: /page:num/

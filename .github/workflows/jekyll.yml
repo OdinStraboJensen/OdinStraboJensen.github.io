@@ -1,4 +1,4 @@
-name: Build Minimal Mistakes site (no deploy needed)
+name: Build Minimal Mistakes Site
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build:
+  github-pages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
