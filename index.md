@@ -24,7 +24,7 @@ feature_row:
     title: "SkullForge"
     excerpt: "My C++ and Vulkan based game engine."
     url: "/engines/"
-  - image_path: /assets/images/feature-blog.png
+  - image_path: /assets/images/feature_blog.png
     alt: "Blog"
     title: "Blog"
     excerpt: "Articles, dev logs, and technical insights."
