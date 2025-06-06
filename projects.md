@@ -40,7 +40,7 @@ Here are some of my completed and ongoing projects.
 
   <div class="video-card">
     <iframe src="https://www.youtube.com/embed/M-ZAOmgmXIA" allowfullscreen></iframe>
-    <p><strong>WinterFury</strong><br>VR WWII on-rails shooter. Multiplayer version in development.</p>
+    <p><strong>WinterFury</strong><br>VR WWII on-rails shooter. I'm currently working on the multiplayer version.</p>
   </div>
 
   <div class="video-card">
@@ -50,7 +50,7 @@ Here are some of my completed and ongoing projects.
 
   <div class="video-card">
     <iframe src="https://www.youtube.com/embed/zsUR8mbkk7U" allowfullscreen></iframe>
-    <p><strong>Blastworld</strong><br>Battle royale built in 5 weeks to hone multiplayer programming skills.</p>
+    <p><strong>Blastworld</strong><br>Battle royale built in 5 weeks to hone my multiplayer programming skills.</p>
   </div>
 
   <div class="video-card">
@@ -80,7 +80,7 @@ Here are some of my completed and ongoing projects.
 
   <div class="video-card">
     <iframe src="https://www.youtube.com/embed/IPbtSauC73A" allowfullscreen></iframe>
-    <p><strong>Tank</strong><br>DOS tank game coded on a 286. Prototype for potential VR remake.</p>
+    <p><strong>Tank</strong><br>DOS tank game coded on a 286.</p>
   </div>
 
   <div class="video-card">
