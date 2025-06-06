@@ -19,9 +19,3 @@ markdown: kramdown
 
 navigation:
   main: main
-
-sidebar:
-  position: right
-# optional:
-#  sticky: true   # Makes the sidebar stick as you scroll
-
