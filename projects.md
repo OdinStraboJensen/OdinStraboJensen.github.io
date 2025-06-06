@@ -10,8 +10,8 @@ Here are some of my completed and ongoing projects.
 <style>
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(2, 1fr); /* Fewer columns = larger videos */
+  gap: 2rem;
   margin-top: 2rem;
 }
 .video-card {
@@ -25,11 +25,18 @@ Here are some of my completed and ongoing projects.
   aspect-ratio: 16 / 9;
   border: none;
   border-radius: 8px;
+  max-height: 360px; /* Optional cap */
 }
 .video-card p {
   margin-top: 0.75rem;
 }
+@media (max-width: 768px) {
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
+
 
 <div class="video-grid">
 
