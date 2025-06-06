@@ -1,0 +1,16 @@
+default:
+  name: Odin Strabo Jensen
+  avatar: /assets/images/avatar.jpg # Make sure to place your avatar image at this path
+  bio: "Software developer passionate about games, engines, and systems design."
+  location: "Denmark" # or update with your actual location
+  email: odinstrabo@gmail.com
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/odin-strabo-jensen/"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@odinstrabojensen"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:odinstrabo@gmail.com"
