@@ -3,6 +3,8 @@ description: My personal site powered by Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
+author: default
+
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
