@@ -1,7 +1,7 @@
 default:
   name: Odin Strabo Jensen
   avatar: /assets/images/avatar.jpg
-  bio: "Software developer passionate about games, engines, and systems design."
+  bio: "Software developer passionate about games and game engines."
   location: "Denmark"
   links:
     - label: "LinkedIn"
