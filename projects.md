@@ -18,7 +18,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
     <option value="#undead-rampage-vr">Undead Rampage VR</option>
     <option value="#blastworld">Blastworld</option>
     <option value="#tiny-zombie-experiment-vr">Tiny Zombie Experiment VR</option>
-    <option value="#hugo-and-the-quest">Hugo and the Quest</option>
+    <option value="#hugo-and-the-quest">Hugo and the Quest for the Sunstones</option>
     <option value="#dungeon-generator">Dungeon Generator</option>
     <option value="#mansion-from-hell">Mansion From Hell</option>
     <option value="#mathcaverpg">MathCaveRPG</option>
@@ -106,7 +106,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="hugo-and-the-quest">
     <iframe src="https://www.youtube.com/embed/GI-guSmPKIo" allowfullscreen></iframe>
-    <p><strong>Hugo and the Quest</strong><br>PlayStation 1 title. I created the PC version, level compiler, and tools.</p>
+    <p><strong>Hugo and the Quest for the Sunstones</strong><br>PlayStation 1 title. I created the PC version, level compiler, and tools.</p>
   </div>
 
   <div class="video-card" id="dungeon-generator">
