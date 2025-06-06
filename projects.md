@@ -9,22 +9,46 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
 ---
 
-### 🔗 Index
+<div class="project-index">
+  <a href="#xenophear">Xenophear</a>
+  <a href="#winterfury">WinterFury</a>
+  <a href="#undead-rampage-vr">Undead Rampage VR</a>
+  <a href="#blastworld">Blastworld</a>
+  <a href="#tiny-zombie-experiment-vr">Tiny Zombie Experiment VR</a>
+  <a href="#hugo-and-the-quest">Hugo and the Quest</a>
+  <a href="#dungeon-generator">Dungeon Generator</a>
+  <a href="#mansion-from-hell">Mansion From Hell</a>
+  <a href="#mathcaverpg">MathCaveRPG</a>
+  <a href="#tank">Tank</a>
+  <a href="#andromeda">Andromeda</a>
+  <a href="#odinscript">OdinScript</a>
+</div>
 
-- [Xenophear](#xenophear)
-- [WinterFury](#winterfury)
-- [Undead Rampage VR](#undead-rampage-vr)
-- [Blastworld](#blastworld)
-- [Tiny Zombie Experiment VR](#tiny-zombie-experiment-vr)
-- [Hugo and the Quest](#hugo-and-the-quest)
-- [Dungeon Generator](#dungeon-generator)
-- [Mansion From Hell](#mansion-from-hell)
-- [MathCaveRPG](#mathcaverpg)
-- [Tank](#tank)
-- [Andromeda](#andromeda)
-- [OdinScript](#odinscript)
-
----
+<style>
+.project-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--mm-surface, #1e1e1e);
+  border-radius: 10px;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.project-index a {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  background: #444;
+  color: white;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+  font-weight: 500;
+}
+.project-index a:hover {
+  background: #666;
+}
+</style>
 
 <style>
 .video-grid {
