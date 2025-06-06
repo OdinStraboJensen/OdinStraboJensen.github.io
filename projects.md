@@ -9,46 +9,49 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
 ---
 
-<div class="project-index">
-  <a href="#xenophear">Xenophear</a>
-  <a href="#winterfury">WinterFury</a>
-  <a href="#undead-rampage-vr">Undead Rampage VR</a>
-  <a href="#blastworld">Blastworld</a>
-  <a href="#tiny-zombie-experiment-vr">Tiny Zombie Experiment VR</a>
-  <a href="#hugo-and-the-quest">Hugo and the Quest</a>
-  <a href="#dungeon-generator">Dungeon Generator</a>
-  <a href="#mansion-from-hell">Mansion From Hell</a>
-  <a href="#mathcaverpg">MathCaveRPG</a>
-  <a href="#tank">Tank</a>
-  <a href="#andromeda">Andromeda</a>
-  <a href="#odinscript">OdinScript</a>
+<div class="sticky-project-dropdown">
+  <label for="project-jump"><strong>Jump to project:</strong></label>
+  <select id="project-jump" onchange="location.hash=this.value">
+    <option value="">Select a project...</option>
+    <option value="#xenophear">Xenophear</option>
+    <option value="#winterfury">WinterFury</option>
+    <option value="#undead-rampage-vr">Undead Rampage VR</option>
+    <option value="#blastworld">Blastworld</option>
+    <option value="#tiny-zombie-experiment-vr">Tiny Zombie Experiment VR</option>
+    <option value="#hugo-and-the-quest">Hugo and the Quest</option>
+    <option value="#dungeon-generator">Dungeon Generator</option>
+    <option value="#mansion-from-hell">Mansion From Hell</option>
+    <option value="#mathcaverpg">MathCaveRPG</option>
+    <option value="#tank">Tank</option>
+    <option value="#andromeda">Andromeda</option>
+    <option value="#odinscript">OdinScript</option>
+  </select>
 </div>
 
 <style>
-.project-index {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1.5rem 0;
-  padding: 1rem;
+.sticky-project-dropdown {
+  position: sticky;
+  top: 1rem;
+  z-index: 1000;
   background: var(--mm-surface, #1e1e1e);
-  border-radius: 10px;
-  justify-content: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
 }
-.project-index a {
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  background: #444;
-  color: white;
+.sticky-project-dropdown label {
+  margin-right: 0.5rem;
+}
+.sticky-project-dropdown select {
+  font-size: 1rem;
+  padding: 0.5rem;
   border-radius: 6px;
-  transition: background 0.3s ease;
-  font-weight: 500;
-}
-.project-index a:hover {
-  background: #666;
+  border: none;
+  background-color: #2b2b2b;
+  color: white;
 }
 </style>
+
 
 <style>
 .video-grid {
