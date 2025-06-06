@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "My First Blog Post"
+layout: home
+title: "First Post!"
 date: 2025-06-06
 author_profile: true
 ---
