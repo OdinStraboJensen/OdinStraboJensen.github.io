@@ -10,7 +10,7 @@ Here are some of my completed and ongoing projects.
 <style>
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(3, 1fr); /* Force exactly 3 columns */
   gap: 1.5rem;
   margin-top: 2rem;
 }
@@ -29,7 +29,13 @@ Here are some of my completed and ongoing projects.
 .video-card p {
   margin-top: 0.75rem;
 }
+@media (max-width: 768px) {
+  .video-grid {
+    grid-template-columns: 1fr; /* Stack on mobile */
+  }
+}
 </style>
+
 
 <div class="video-grid">
 
