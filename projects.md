@@ -80,7 +80,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 <style>
 .video-card {
   position: relative;
-  scroll-margin-top: 100px; /* Offset scroll anchor to avoid sticky menu overlap */
+  scroll-margin-top: 150px; /* Offset scroll anchor to avoid sticky menu overlap */
 }
 </style>
 
