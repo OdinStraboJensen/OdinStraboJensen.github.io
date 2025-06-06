@@ -77,6 +77,14 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 }
 </style>
 
+<style>
+.video-card {
+  position: relative;
+  scroll-margin-top: 100px; /* Offset scroll anchor to avoid sticky menu overlap */
+}
+</style>
+
+
 <div class="video-grid">
 
   <div class="video-card" id="xenophear">
