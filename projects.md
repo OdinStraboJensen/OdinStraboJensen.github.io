@@ -13,6 +13,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
   <label for="project-jump"><strong>Jump to project:</strong></label>
   <select id="project-jump" onchange="location.hash=this.value">
     <option value="">Select a project...</option>
+    <option value="#tomo">Tomo: Endless Blue</option>
     <option value="#xenophear">Xenophear</option>
     <option value="#winterfury">WinterFury</option>
     <option value="#undead-rampage-vr">Undead Rampage VR</option>
@@ -86,6 +87,11 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
 
 <div class="video-grid">
+
+  <div class="video-card" id="tomo">
+    <iframe src="https://www.youtube.com/embed/Bv85AsWsna8" allowfullscreen></iframe>
+    <p><strong>Tomo: Endless Blue</strong><br>Recently announced multiplayer game, I'm currently working on.</p>
+  </div>
 
   <div class="video-card" id="xenophear">
     <iframe src="https://www.youtube.com/embed/zPWFNZ_WVLU" allowfullscreen></iframe>
