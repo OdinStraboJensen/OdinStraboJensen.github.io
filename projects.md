@@ -90,7 +90,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="tomo">
     <iframe src="https://www.youtube.com/embed/Bv85AsWsna8" allowfullscreen></iframe>
-    <p><strong>Tomo: Endless Blue</strong><br>Recently announced multiplayer game, I'm currently working on.</p>
+    <p><strong>Tomo: Endless Blue</strong><br>Recently announced pal/voxel based multiplayer game, I'm currently working on.</p>
   </div>
 
   <div class="video-card" id="xenophear">
