@@ -98,6 +98,10 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
     <p><strong>Xenophear</strong><br>Multiplayer alien shooter completed solo in 5 months. Inspired by Warhammer and Space Hulk.</p>
   </div>
 
+  <div class="video-card" id="alienfury">
+    <iframe src="https://youtu.be/sBHQK_1xqvU" allowfullscreen></iframe>
+    <p><strong>Alien Fury</strong><br>Arcade space shooter that gets progressively harder, the longer you play. It's a simple a matter of shooting the alien missiles, before they hit you. How long can you survive?<br>Build as a test game for my Skullforge game engine.<br>Get it for free on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury/" target="_blank">here</a>.</p>
+
   <div class="video-card" id="winterfury">
     <iframe src="https://www.youtube.com/embed/M-ZAOmgmXIA" allowfullscreen></iframe>
     <p><strong>WinterFury</strong><br>VR WWII on-rails shooter. I'm currently working on the multiplayer version.</p>
@@ -115,8 +119,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="tiny-zombie-experiment-vr">
     <iframe src="https://www.youtube.com/embed/T9wvSPwp5tE" allowfullscreen></iframe>
-   <p>
-   <strong>Tiny Zombie Experiment VR</strong><br>Part zombie shooter, part zombie infection simulator. Works in VR too. Download <a href="https://furidk.itch.io/tiny-zombies-experiment-vr" target="_blank">here</a>.</p>
+   <p><strong>Tiny Zombie Experiment VR</strong><br>Part zombie shooter, part zombie infection simulator. Works in VR too. Download <a href="https://furidk.itch.io/tiny-zombies-experiment-vr" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="hugo-and-the-quest">
