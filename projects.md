@@ -90,7 +90,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="tomo">
     <iframe src="https://www.youtube.com/embed/Bv85AsWsna8" allowfullscreen></iframe>
-    <p><strong>Tomo: Endless Blue</strong><br>Recently announced pal/voxel based multiplayer game, I'm currently working on. See more [here](https://www.tomoendlessblue.com) and [here](https://www.onibi.gg/)</p>
+    <p><strong>Tomo: Endless Blue</strong><br>Recently announced pal/voxel based multiplayer game, I'm currently working on. See more <a href="https://www.tomoendlessblue.com" target="_blank">here</a> and <a href="https://www.onibi.gg/" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="xenophear">
@@ -115,7 +115,8 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="tiny-zombie-experiment-vr">
     <iframe src="https://www.youtube.com/embed/T9wvSPwp5tE" allowfullscreen></iframe>
-    <p><strong>Tiny Zombie Experiment VR</strong><br>Part zombie shooter, part zombie infection simulator, Works in VR too. Download [here](https://furidk.itch.io/tiny-zombies-experiment-vr)</p>
+   <p>
+   <strong>Tiny Zombie Experiment VR</strong><br>Part zombie shooter, part zombie infection simulator. Works in VR too. Download <a href="https://furidk.itch.io/tiny-zombies-experiment-vr" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="hugo-and-the-quest">
@@ -135,7 +136,9 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="mathcaverpg">
     <iframe src="https://www.youtube.com/embed/5EU12Vbuc6I" allowfullscreen></iframe>
-    <p><strong>MathCaveRPG</strong><br>Use math to fight in real-time. Launched on mobile, now free online. Try it [here](https://furidk.itch.io/mathcaverpg)</p>
+   <p><strong>MathCaveRPG</strong><br>Use math to fight in real-time. Launched on mobile, now free online. Try it <a href="https://furidk.itch.io/mathcaverpg" target="_blank">here</a>.
+</p>
+
   </div>
 
   <div class="video-card" id="tank">
