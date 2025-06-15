@@ -99,7 +99,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
   </div>
 
   <div class="video-card" id="alienfury">
-    <iframe src="https://youtu.be/sBHQK_1xqvU" allowfullscreen></iframe>
+    <iframe src="https://youtu.com/sBHQK_1xqvU" allowfullscreen></iframe>
     <p><strong>Alien Fury</strong><br>Arcade space shooter that gets progressively harder, the longer you play. It's a simple a matter of shooting the alien missiles, before they hit you. How long can you survive?<br>Build as a test game for my Skullforge game engine.<br>Get it for free on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury/" target="_blank">here</a>.</p>
 
   <div class="video-card" id="winterfury">
@@ -114,7 +114,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="blastworld">
     <iframe src="https://www.youtube.com/embed/zsUR8mbkk7U" allowfullscreen></iframe>
-    <p><strong>Blastworld</strong><br>Battle royale built in 5 weeks to hone my multiplayer programming skills.</p>
+    <p><strong>Blastworld</strong><br>Battle royale multiplayer game, built in 5 weeks to hone my multiplayer programming skills.</p>
   </div>
 
   <div class="video-card" id="tiny-zombie-experiment-vr">
