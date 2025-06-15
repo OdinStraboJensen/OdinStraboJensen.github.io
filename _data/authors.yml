@@ -9,7 +9,7 @@ default:
       url: "https://www.linkedin.com/in/odin-strabo-jensen/"
     - label: "YouTube"
       icon: "fab fa-youtube"
-      url: "https://www.youtube.com/@odinstrabojensen"
+      url: "https://www.youtube.com/@ozakscorner"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:odinstrabo@gmail.com"

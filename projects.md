@@ -115,7 +115,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="tiny-zombie-experiment-vr">
     <iframe src="https://www.youtube.com/embed/T9wvSPwp5tE" allowfullscreen></iframe>
-    <p><strong>Tiny Zombie Experiment VR</strong><br>Cartoonish VR zombie outbreak simulation with city-scale infection.</p>
+    <p><strong>Tiny Zombie Experiment VR</strong><br>Part zombie shooter, part zombie infection simulator, Works in VR too.</p>
   </div>
 
   <div class="video-card" id="hugo-and-the-quest">
