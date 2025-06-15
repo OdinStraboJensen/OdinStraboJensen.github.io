@@ -99,7 +99,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
   </div>
 
   <div class="video-card" id="alienfury">
-    <iframe src="https://youtu.com/sBHQK_1xqvU" allowfullscreen></iframe>
+    <iframe src="https://youtube.com/sBHQK_1xqvU" allowfullscreen></iframe>
     <p><strong>Alien Fury</strong><br>Arcade space shooter that gets progressively harder, the longer you play. It's a simple a matter of shooting the alien missiles, before they hit you. How long can you survive?<br>Build as a test game for my Skullforge game engine.<br>Get it for free on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury/" target="_blank">here</a>.</p>
 
   <div class="video-card" id="winterfury">
