@@ -13,6 +13,8 @@ plugins:
   
 fontawesome: true
 
+google_analytics: G-XBDR3W7R47
+
 paginate: 5
 paginate_path: "/page:num/"
 markdown: kramdown
