@@ -20,5 +20,9 @@ markdown: kramdown
 navigation:
   main: main
 
-include:
-  - _includes/head-custom.html
+defaults:
+  - scope:
+      path: ""
+    values:
+      head: |
+        {% include head-custom-google-analytics.html %}
