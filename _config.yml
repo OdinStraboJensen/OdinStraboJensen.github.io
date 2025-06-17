@@ -20,9 +20,7 @@ markdown: kramdown
 navigation:
   main: main
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      head: |
-        {% include head-custom-google-analytics.html %}
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XBDR3W7R47"
