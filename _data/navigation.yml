@@ -7,5 +7,7 @@ main:
     url: /projects/
   - title: "Engines"
     url: /engines/
+  - title: "Other projects"
+    url: /other/
   - title: "About"
     url: /about/
