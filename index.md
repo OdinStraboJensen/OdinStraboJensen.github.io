@@ -19,7 +19,7 @@ feature_row:
     title: "Projects"
     excerpt: "My games, apps and experiments."
     url: "/projects/"
-	- image_path: /assets/images/other.png
+  - image_path: /assets/images/other.png
     alt: "Other Projects"
     title: "Other Projects"
     excerpt: "Other projects such as AI etc."
@@ -29,8 +29,6 @@ feature_row:
     title: "SkullForge"
     excerpt: "My C++ and Vulkan based game engine."
     url: "/engines/"
-  
- 
 ---
 
-{% include feature_row %} 
+{% include feature_row %}
