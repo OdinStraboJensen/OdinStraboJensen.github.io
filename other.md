@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Engines"
-permalink: /engines/
+title: "Other Projects"
+permalink: /other/
 author_profile: true
 ---
 
