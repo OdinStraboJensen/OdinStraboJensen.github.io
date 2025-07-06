@@ -77,12 +77,12 @@ Other projects such as AI etc.
 
 <div class="video-grid">
 
-  <div class="video-card" id="skullforge">
+  <div class="video-card" id="ollama">
     <iframe src="https://www.youtube.com/embed/N5DAkLFrO0o" allowfullscreen></iframe>
     <p><strong>Running OLlama models on local PC</strong><br>In this video, I demonstrate what it takes to run a local OLLama LLM model on your local PC.</p>
   </div>
 
-  <div class="video-card" id="skulledit">
+  <div class="video-card" id="invoke">
     <iframe src="https://www.youtube.com/embed/J014HFrFaxI" allowfullscreen></iframe>
     <p><strong>Run stable diffusion image generation on local PC</strong><br>In this video, I look at how to run stable diffusion image models on your local PC.</p>
   </div>
