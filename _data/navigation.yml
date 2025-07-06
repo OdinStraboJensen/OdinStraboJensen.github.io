@@ -1,13 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /blog/
-  - title: "Projects"
+  - title: "Games"
     url: /projects/
   - title: "Engines"
     url: /engines/
   - title: "Other projects"
     url: /other/
+  - title: "Blog"
+    url: /blog/  
   - title: "About"
     url: /about/
