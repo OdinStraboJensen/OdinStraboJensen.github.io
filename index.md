@@ -24,12 +24,11 @@ feature_row:
     title: "SkullForge"
     excerpt: "My C++ and Vulkan based game engine."
     url: "/engines/"
-	- image_path: /assets/images/feature_other.png
+  - image_path: /assets/images/feature_other.png
     alt: "Other Projects"
     title: "Other Projects"
     excerpt: "Other projects such as AI etc."
     url: "/other/"
-  
 ---
 
 {% include feature_row %}
