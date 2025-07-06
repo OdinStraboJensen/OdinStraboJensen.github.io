@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/feature_other.png
     alt: "Other Projects"
     title: "Other Projects"
-    excerpt: "Other projects such as AI etc."
+    excerpt: "Other projects such as AI etc.<br>"
     url: "/other/"
 ---
 
