@@ -15,14 +15,14 @@ intro:
 
 feature_row:
   - image_path: /assets/images/feature_projects.png
-    alt: "Projects"
-    title: "Projects"
-    excerpt: "My games, apps and experiments."
+    alt: "Games"
+    title: "Games"
+    excerpt: "My games, and game related projects and experiments."
     url: "/projects/"
   - image_path: /assets/images/feature_engine.png
     alt: "Game Engines"
     title: "SkullForge"
-    excerpt: "My C++ and Vulkan based game engine."
+    excerpt: "My C++, OpenGL- and Vulkan based game engines."
     url: "/engines/"
   - image_path: /assets/images/feature_other.png
     alt: "Other Projects"
