@@ -83,7 +83,7 @@ Other projects such as AI etc.
   </div>
 
   <div class="video-card" id="skulledit">
-    <iframe src="https://www.youtube.com/embed/sAR2dOuBZVE" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/J014HFrFaxI" allowfullscreen></iframe>
     <p><strong>Run stable diffusion image generation on local PC</strong><br>In this video, I look at how to run stable diffusion image models on your local PC.</p>
   </div>
 
