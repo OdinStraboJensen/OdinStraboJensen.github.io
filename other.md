@@ -78,13 +78,13 @@ Other projects such as AI etc.
 <div class="video-grid">
 
   <div class="video-card" id="skullforge">
-    <iframe src="https://www.youtube.com/embed/OeUQCfQURaY" allowfullscreen></iframe>
-    <p><strong>SkullForge Engine Features</strong><br>In this video, I demonstrate the first version of my cross-platform game engine, SkullForge, and talk a bit about why I started from scratch for the next iteration.</p>
+    <iframe src="https://www.youtube.com/embed/N5DAkLFrO0o" allowfullscreen></iframe>
+    <p><strong>Running OLlama models on local PC</strong><br>In this video, I demonstrate what it takes to run a local OLLama LLM model on your local PC.</p>
   </div>
 
   <div class="video-card" id="skulledit">
     <iframe src="https://www.youtube.com/embed/sAR2dOuBZVE" allowfullscreen></iframe>
-    <p><strong>SkullForge Engiune Editor</strong><br>In this video, I look at the editor for the first version of my cross-platform game, SkullForge, and talk a bit more, about why I started from scratch for the next iteration.</p>
+    <p><strong>Run stable diffusion image generation on local PC</strong><br>In this video, I look at how to run stable diffusion image models on your local PC.</p>
   </div>
 
 </div>
