@@ -84,7 +84,7 @@ Details about my custom game engines and technical systems.
 
   <div class="video-card" id="skulledit">
     <iframe src="https://www.youtube.com/embed/sAR2dOuBZVE" allowfullscreen></iframe>
-    <p><strong>SkullForge Engiune Editor</strong><br>In this video, I look at the editor for the first version of my cross-platform game, SkullForge, and talk a bit more, about why I started from scratch for the next iteration.</p>
+    <p><strong>SkullForge Engine Editor</strong><br>In this video, I look at the editor for the first version of my cross-platform game, SkullForge, and talk a bit more, about why I started from scratch for the next iteration.</p>
   </div>
 
 </div>
