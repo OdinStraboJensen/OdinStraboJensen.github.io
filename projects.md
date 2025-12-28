@@ -102,7 +102,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="halloweencastle">
     <iframe src="https://www.youtube.com/embed/zGI6PKdCnOY" allowfullscreen></iframe>
-    <p><strong>Halloween Castle</strong><br>A new arcade game for Commodore 64. <br>Shoot the ghosts before you die of fright!<br>Get it for free on itch.io <a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
+    <p><strong>Halloween Castle</strong><br>A new arcade game for Commodore 64. <br>Shoot the ghosts before you die of fright!<br>(Go to 24:32 in video as youtube does not support this in embedded videos)<br>Get it for free on itch.io <a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="winterfury">
