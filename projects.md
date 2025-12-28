@@ -16,6 +16,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
     <option value="#tomo">Tomo: Endless Blue</option>
     <option value="#xenophear">Xenophear</option>
     <option value="#alienfury">Alien Fury</option>
+    <option value="#halloweencastle">Halloween Castle</option>
     <option value="#winterfury">WinterFury</option>
     <option value="#undead-rampage-vr">Undead Rampage VR</option>
     <option value="#blastworld">Blastworld</option>
@@ -99,9 +100,10 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
     <p><strong>Xenophear</strong><br>Multiplayer alien shooter completed solo in 5 months. Inspired by Warhammer and Space Hulk.</p>
   </div>
 
-  <div class="video-card" id="alienfury">
-    <iframe src="https://youtube.com/embed/sBHQK_1xqvU" allowfullscreen></iframe>
-    <p><strong>Alien Fury</strong><br>Arcade space shooter that gets progressively harder, the longer you play. It's a simple a matter of shooting the alien missiles, before they hit you. How long can you survive?<br>Build as a test game for my Skullforge game engine.<br>Get it for free on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury/" target="_blank">here</a>.</p>
+  <div class="video-card" id="halloweencastle">
+    <iframe src="https://www.youtube.com/watch?v=zGI6PKdCnOY&t=1472s" allowfullscreen></iframe>
+    <p><strong>Halloween Castle</strong><br>A new arcade game for Commodore 64. <br>Shoot the ghosts before you die of fright!<br>Get it for free on itch.io<a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
+  </div>
 
   <div class="video-card" id="winterfury">
     <iframe src="https://www.youtube.com/embed/M-ZAOmgmXIA" allowfullscreen></iframe>
