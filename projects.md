@@ -102,7 +102,12 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
   <div class="video-card" id="halloweencastle">
     <iframe src=" https://www.youtube.com/embed/zGI6PKdCnOY?si=jKbfa5ynivxE64t_&amp;start=1472" allowfullscreen></iframe>
-    <p><strong>Halloween Castle</strong><br>A new arcade game for Commodore 64. <br>Shoot the ghosts before you die of fright!<br>(Go to 24:32 in video as youtube does not support this in embedded videos)<br>Get it for free on itch.io <a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
+    <p><strong>Halloween Castle</strong><br>A new arcade game for Commodore 64. <br>Shoot the ghosts before you die of fright!<br>Get it for free on itch.io <a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
+  </div>
+
+   <div class="video-card" id="alienfury">
+    <iframe src=" https://www.youtube.com/embed/sBHQK_1xqvU allowfullscreen></iframe>
+    <p><strong>Alien Fury</strong><br>Arcade space shooter where the game gets progressively harder the longer you play. <br>Shoot alien missiles before they hit you and survive as long as possible in this 2D action space-zap style shooter.<br>Get it for free on itch.io <a href="https://furidk.itch.io/halloween-castle" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="winterfury">
