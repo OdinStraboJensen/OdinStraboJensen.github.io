@@ -107,8 +107,7 @@ Here are some of my completed and ongoing projects. Use the index below to jump 
 
    <div class="video-card" id="alienfury">
     <iframe src="https://www.youtube.com/embed/sBHQK_1xqvU" allowfullscreen></iframe>
-    <p><strong>Alien Fury</strong><br>Arcade space shooter where the game gets progressively harder the longer you play. <br>Shoot alien missiles before they hit you and survive as long as possible in this 2D action space-zap style shooter.<br>Get it for free on itch.io <a href="https://furidk.itch.io/alien-fury" target="_blank">here</a>.
-    br>or free on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury" target="_blank">here</a>.</p>
+    <p><strong>Alien Fury</strong><br>Arcade space shooter where the game gets progressively harder the longer you play. <br>Shoot alien missiles before they hit you and survive as long as possible in this 2D action space-zap style shooter.<br>Get it for free on itch.io <a href="https://furidk.itch.io/alien-fury" target="_blank">here</a>, or on Steam <a href="https://store.steampowered.com/app/1112910/Alien_Fury" target="_blank">here</a>.</p>
   </div>
 
   <div class="video-card" id="winterfury">
